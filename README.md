@@ -1,13 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linktr.ee/sandarumd99)
 <h1 align="center">Hi 👋, I'm Sandaru Dissanayake</h1>
-<h3 align="center">A passionate Web developer from Sri Lanka</h3>
+<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 <image align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarumd99&label=Profile%20views&color=0e75b6&style=flat" alt="sandarumd99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sandybeats1" target="blank"><img src="https://img.shields.io/twitter/follow/sandybeats1?logo=twitter&style=for-the-badge" alt="sandybeats1" /></a> </p>
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sandarudissanayake4@gmail.com**
 
